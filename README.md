@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,19,24&height=180&section=header&text=JinXSuperz&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Hello!%20Im%20JinXSuperz%20(rp%20name)%2C%20from%20indonesia!%20I%20was%20a%20vibe%20coders!%20Creating%20API%2C%20AI%20Agents%2C%20or%20even%20Fancy%20Websites!%20&descSize=16&descAlignY=52" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,19,24&height=180&section=header&text=JinXSuperz&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32" width="100%" />
 
 [![GitHub followers](https://img.shields.io/github/followers/JinXSuper?label=Follow&style=social)](https://github.com/JinXSuper) &nbsp; ![Profile Views](https://komarev.com/ghpvc/?username=JinXSuper&color=58a6ff&style=flat-square)
 
