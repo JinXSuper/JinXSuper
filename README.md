@@ -1,69 +1,61 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,19,24&height=180&section=header&text=JinXSuperz&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32" width="100%" />
+# Hey, I'm JinX 👋
 
-[![GitHub followers](https://img.shields.io/github/followers/JinXSuper?label=Follow&style=social)](https://github.com/JinXSuper) &nbsp; ![Profile Views](https://komarev.com/ghpvc/?username=JinXSuper&color=58a6ff&style=flat-square)
+**A self-driven developer with a keen eye for clean interfaces and elegant solutions.**
+I thrive on turning complex problems into minimal, purposeful experiences —
+whether it's crafting pixel-perfect UIs or engineering robust backend flows.
 
-</div>
-
----
-
-<h2 align="center">About Me</h2>
-
-- 🔭 I have **1** public repositories on GitHub
-- ⭐ **0** total stars earned across my projects
-- 👥 **0** followers · **0** following
+> *"Write code that speaks for itself, and design that doesn't need an explanation."*
 
 ---
 
-<h2 align="center">Tech Stack</h2>
+## 🌐 Reach Me
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jinxsuperdev@gmailm.com)
 
 ---
 
-<h2 align="center">Top Projects</h2>
+## 🧠 What I Bring to the Table
 
-| Project | Description | Stars | Language |
-|---------|-------------|-------|----------|
-| [**JinXSuper**](https://github.com/JinXSuper/JinXSuper) | A Short Github profiles | ⭐ 0 | — |
+I specialize in **frontend engineering** with a deep appreciation for design systems —
+particularly the **Geist Design System** and its philosophy of clarity over complexity.
+My workflow is shaped by precision, a strong sense of visual hierarchy, and a habit
+of obsessing over the small details that make a product feel *complete*.
 
----
-
-<h2 align="center">GitHub Stats</h2>
-
-<div align="center">
-
-![](https://img.shields.io/badge/Total_Stars-0-58a6ff?style=for-the-badge&logo=github&logoColor=white) ![](https://img.shields.io/badge/Repositories-1-3fb950?style=for-the-badge&logo=bookmarks&logoColor=white) ![](https://img.shields.io/badge/Followers-0-bc8cff?style=for-the-badge&logo=people&logoColor=white) ![](https://img.shields.io/badge/Forks-0-d29922?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=JinXSuper&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
-
-</div>
+I'm fluent in **prompt engineering**, which allows me to integrate AI tooling
+meaningfully into real-world development pipelines — not just as a gimmick,
+but as a genuine productivity multiplier.
 
 ---
 
-<h2 align="center">Achievements</h2>
+## 💻 Tech Stack
 
-<div align="center">
-
-![](https://img.shields.io/badge/📦_First_Repo-1_Repos-C0C0C0?style=for-the-badge)
-
-</div>
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 
 ---
 
-<h2 align="center">Connect with Me</h2>
+## 📊 GitHub Stats
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JinXSuper)
+![](https://github-readme-stats.vercel.app/api?username=JinXSuper&theme=apprentice&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=JinXSuper&theme=apprentice&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=JinXSuper&theme=apprentice&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
-<div align="center">
+## 🏆 GitHub Trophies
 
-*Thank you for visiting!*
+![](https://github-profile-trophy.vercel.app/?username=JinXSuper&theme=react&no-frame=false&no-bg=false&margin-w=4)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,19,24&height=80&section=footer" width="100%" />
+---
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repositories
+![](https://github-contributor-stats.vercel.app/api?username=JinXSuper&limit=5&theme=default&combine_all_yearly_contributions=true)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=JinXSuper&icon=0&color=0)](https://visitcount.itsvg.in)
 
 </div>
